@@ -1,4 +1,5 @@
-# react-aria-tabpanel [![Build Status](https://travis-ci.org/davidtheclark/react-aria-tabpanel.svg?branch=master)](https://travis-ci.org/davidtheclark/react-aria-tabpanel)
+# react-hooks-aria-tabpanel
+Based on react-aria-tabpanel [![Build Status](https://travis-ci.org/davidtheclark/react-aria-tabpanel.svg?branch=master)](https://travis-ci.org/davidtheclark/react-aria-tabpanel) by davidtheclark.
 
 ---
 
